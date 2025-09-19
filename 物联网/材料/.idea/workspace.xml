@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc55ea7d-4dee-4325-95b6-e3893d37339f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../cypher.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cypher.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../待办事项.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../交接材料-朱昊翔/2、营销案申请/营销案提交意见.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../交接材料-朱昊翔/2、营销案申请/营销案提交意见.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../库存管理/备卡调拨（嘉兴）操作表2025.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../库存管理/备卡调拨（嘉兴）操作表2025.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../模组/模组发展情况2025.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../模组/模组发展情况2025.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../物联卡工作交接-朱昊翔.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../物联卡工作交接-朱昊翔.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../营销管理/库存管理/备卡调拨（嘉兴）操作表2022(1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../营销管理/物联网卡审批/717号文应用场景清单-20250106(1).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../营销管理/物联网卡审批/717号文应用场景清单-20250106(1).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../营销管理/物联网卡审批/OA政策审批.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../营销管理/物联网卡审批/OA政策审批.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../账号申请材料/运管4A/【模板3】金库关系申请表-示例.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../账号申请材料/运管4A/【模板3】金库关系申请表-示例.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../需要做.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="32rerUZUFaSTBHcje6zRjNb1jCG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc55ea7d-4dee-4325-95b6-e3893d37339f" name="Changes" comment="" />
+      <created>1758183317297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758183317297</updated>
+      <workItem from="1758183318601" duration="2042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
